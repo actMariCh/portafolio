@@ -5,6 +5,7 @@ El presente proyecto es creado para el bootcamp de **Tecnolochicas PRO Summer Ca
 * 1. Introducción
 * 2. Demostración
 * 3. Tecnologías
++ 4. Requisitos
 * 4. Contacto
   
 # 1. Introducción
@@ -29,6 +30,12 @@ Esta página fue creada con:
 
 ## Español
  El texto de la página web está escrito en español, sin embargo la clases relacionadas con Bootstrap se incluyen en inglés.
+# 4 Requisitos
++ Interfaz de usuario
++ Aplicar en todo el sitio HTML5.
++ Aplicar CSS para dar estilo de acuerdo a los selectores
++ Aplicar bootstrap obtener un efecto responsivo de la página
++ Crear una animación a través de JavaScript
 
 # 4.Contacto
 Desarrollado por: [Maricela Chávez](https://www.linkedin.com/in/maricela-chavez-de-la-cruz-25a452285/). en Tecnolochicas PRO Summer Camp.
