@@ -17,7 +17,7 @@ Incluye una descripción de su experiencia, proyectos y formas de contacto.
 
 También contiene una sección de almacenamiento de archivos *(imágenes)* que nos permiten modificar la imagen de perfil del desarrollador y contiene una animación desarrollada con JavaScript.
 # 2. Demostracion
-Puedes entrar a ver el demo en este vinculo: 
+Puedes entrar a ver el demo en este vinculo: https://tubular-treacle-518b91.netlify.app/
 ![image](https://github.com/actMariCh/portafolio/assets/140435095/bf65aa5d-c22e-4695-8b5f-4177b312172c)
 # 3.Tecnologías
 
