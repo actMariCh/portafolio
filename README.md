@@ -33,6 +33,3 @@ Esta página fue creada con:
 # 4.Contacto
 Desarrollado por: [Maricela Chávez](https://www.linkedin.com/in/maricela-chavez-de-la-cruz-25a452285/). en Tecnolochicas PRO Summer Camp.
 
-
-Desarrollado por:  en Tecnolochicas PRO Summer Camp.
-[Maricela Chávez]().
