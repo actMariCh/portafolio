@@ -6,7 +6,7 @@ El presente proyecto es creado para el bootcamp de **Tecnolochicas PRO Summer Ca
 * 2. Demostración
 * 3. Tecnologías
 + 4. Requisitos
-* 4. Contacto
+* 5. Contacto
   
 # 1. Introducción
 Es una página web resposiva *(adaptable a diversos tamaños de pantalla)*.
@@ -37,6 +37,6 @@ Esta página fue creada con:
 + Aplicar bootstrap obtener un efecto responsivo de la página
 + Crear una animación a través de JavaScript
 
-# 4.Contacto
+# 5.Contacto
 Desarrollado por: [Maricela Chávez](https://www.linkedin.com/in/maricela-chavez-de-la-cruz-25a452285/). en Tecnolochicas PRO Summer Camp.
 
